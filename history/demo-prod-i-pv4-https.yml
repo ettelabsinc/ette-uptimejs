@@ -1,7 +1,7 @@
 url: https://demo.prod.ettelabs.com
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-02-25T08:29:16.121Z
+status: up
+code: 200
+responseTime: 721
+lastUpdated: 2024-02-25T08:43:26.683Z
 startTime: 2024-02-22T21:26:05.218Z
 generator: Upptime <https://github.com/upptime/upptime>

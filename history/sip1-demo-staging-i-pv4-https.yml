@@ -1,7 +1,7 @@
 url: https://sip1.demo.staging.ettelabs.com/metrics
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-02-27T14:28:17.668Z
+status: up
+code: 200
+responseTime: 98
+lastUpdated: 2024-02-27T14:35:17.021Z
 startTime: 2024-02-23T10:13:13.228Z
 generator: Upptime <https://github.com/upptime/upptime>

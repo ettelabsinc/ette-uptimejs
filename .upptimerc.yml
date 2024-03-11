@@ -4,73 +4,73 @@ repo: ette-uptimejs # The name of this repository
 
 sites:
   - name: demo.prod (IPv4, HTTPS)
-    url: https://demo.prod.dahsphone.app
+    url: https://demo.prod.dashphone.app
     ipv6: false
   - name: demo.prod (IPv6, HTTPS)
-    url: https://demo.prod.dahsphone.app
+    url: https://demo.prod.dashphone.app
     ipv6: true
 
   - name: demo.staging (IPv4, HTTPS)
-    url: https://demo.staging.dahsphone.app
+    url: https://demo.staging.dashphone.app
     ipv6: false
   - name: demo.staging (IPv6, HTTPS)
-    url: https://demo.staging.dahsphone.app
+    url: https://demo.staging.dashphone.app
     ipv6: true
 
   - name: sip1.demo.prod (IPv4, HTTPS)
-    url: https://sip1.demo.prod.dahsphone.app/metrics
+    url: https://sip1.demo.prod.dashphone.app/metrics
     ipv6: false
   - name: sip1.demo.prod (IPv6, HTTPS)
-    url: https://sip1.demo.prod.dahsphone.app/metrics
+    url: https://sip1.demo.prod.dashphone.app/metrics
     ipv6: true
 
   - name: sip1.demo.staging (IPv4, HTTPS)
-    url: https://sip1.demo.staging.dahsphone.app/metrics
+    url: https://sip1.demo.staging.dashphone.app/metrics
     ipv6: false
   - name: sip1.demo.staging (IPv6, HTTPS)
-    url: https://sip1.demo.staging.dahsphone.app/metrics
+    url: https://sip1.demo.staging.dashphone.app/metrics
     ipv6: true
 
   - name: sip1.demo.prod (IPv4, 5060/TCP)
-    url: sip1.demo.prod.dahsphone.app
+    url: sip1.demo.prod.dashphone.app
     port: 5060
     check: "tcp-ping"
     ipv6: false
   - name: sip1.demo.prod (IPv6, 5060/TCP)
-    url: sip1.demo.prod.dahsphone.app
+    url: sip1.demo.prod.dashphone.app
     port: 5060
     check: "tcp-ping"
     ipv6: true
 
   - name: sip1.demo.staging (IPv4, 5060/TCP)
-    url: sip1.demo.staging.dahsphone.app
+    url: sip1.demo.staging.dashphone.app
     port: 5060
     check: "tcp-ping"
     ipv6: false
   - name: sip1.demo.staging (IPv6, 5060/TCP)
-    url: sip1.demo.staging.dahsphone.app
+    url: sip1.demo.staging.dashphone.app
     port: 5060
     check: "tcp-ping"
     ipv6: true
 
   - name: fs1.demo.prod (IPv4, 5060/TCP)
-    url: fs1.demo.prod.dahsphone.app
+    url: fs1.demo.prod.dashphone.app
     port: 5060
     check: "tcp-ping"
     ipv6: false
   - name: fs1.demo.prod (IPv6, 5060/TCP)
-    url: fs1.demo.prod.dahsphone.app
+    url: fs1.demo.prod.dashphone.app
     port: 5060
     check: "tcp-ping"
     ipv6: true
 
   - name: fs1.demo.staging (IPv4, 5060/TCP)
-    url: fs1.demo.staging.dahsphone.app
+    url: fs1.demo.staging.dashphone.app
     port: 5060
     check: "tcp-ping"
     ipv6: false
   - name: fs1.demo.staging (IPv6, 5060/TCP)
-    url: fs1.demo.staging.dahsphone.app
+    url: fs1.demo.staging.dashphone.app
     port: 5060
     check: "tcp-ping"
     ipv6: true

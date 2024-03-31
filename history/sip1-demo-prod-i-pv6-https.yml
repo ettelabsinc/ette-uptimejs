@@ -1,7 +1,7 @@
 url: https://sip1.demo.prod.dashphone.app/metrics
-status: down
-code: 502
-responseTime: 54
-lastUpdated: 2024-03-30T23:11:34.056Z
+status: up
+code: 200
+responseTime: 5
+lastUpdated: 2024-03-31T09:28:55.866Z
 startTime: 2024-02-22T21:26:10.705Z
 generator: Upptime <https://github.com/upptime/upptime>

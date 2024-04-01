@@ -75,6 +75,26 @@ sites:
   #   check: "tcp-ping"
   #   ipv6: true
 
+  - name: cr1.prod (IPv4, 5060/TCP)
+    url: cr1.prod.ettelabs.com
+    port: 5060
+    check: "tcp-ping"
+    ipv6: false
+  - name: cr2.prod (IPv4, 5060/TCP)
+    url: cr2.prod.ettelabs.com
+    port: 5060
+    check: "tcp-ping"
+    ipv6: false
+  - name: cr1.staging (IPv4, 5060/TCP)
+    url: cr1.staging.ettelabs.com
+    port: 5060
+    check: "tcp-ping"
+    ipv6: false
+  - name: cr2.staging (IPv4, 5060/TCP)
+    url: cr2.staging.ettelabs.com
+    port: 5060
+    check: "tcp-ping"
+    ipv6: false
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

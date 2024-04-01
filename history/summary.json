@@ -355,18 +355,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "cr1-prod-i-pv4-5060-tcp",
     "status": "up",
-    "uptime": "4.65%",
-    "uptimeDay": "4.65%",
-    "uptimeWeek": "4.65%",
-    "uptimeMonth": "4.65%",
-    "uptimeYear": "4.65%",
+    "uptime": "0.12%",
+    "uptimeDay": "0.12%",
+    "uptimeWeek": "0.12%",
+    "uptimeMonth": "0.12%",
+    "uptimeYear": "0.12%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-01": 0
+      "2024-04-01": 1
     }
   },
   {
@@ -375,18 +375,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "cr2-prod-i-pv4-5060-tcp",
     "status": "up",
-    "uptime": "1.84%",
-    "uptimeDay": "1.84%",
-    "uptimeWeek": "1.84%",
-    "uptimeMonth": "1.84%",
-    "uptimeYear": "1.84%",
+    "uptime": "1.59%",
+    "uptimeDay": "1.59%",
+    "uptimeWeek": "1.59%",
+    "uptimeMonth": "1.59%",
+    "uptimeYear": "1.59%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-01": 0
+      "2024-04-01": 1
     }
   },
   {

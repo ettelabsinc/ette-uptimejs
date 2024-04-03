@@ -17,20 +17,6 @@ sites:
     url: https://demo-web.staging.dashphone.app
     ipv6: true
 
-  - name: demo.prod (IPv4, HTTPS)
-    url: https://demo.prod.dashphone.app
-    ipv6: false
-  - name: demo.prod (IPv6, HTTPS)
-    url: https://demo.prod.dashphone.app
-    ipv6: true
-
-  - name: demo.staging (IPv4, HTTPS)
-    url: https://demo.staging.dashphone.app
-    ipv6: false
-  - name: demo.staging (IPv6, HTTPS)
-    url: https://demo.staging.dashphone.app
-    ipv6: true
-
   - name: sip1.demo.prod (IPv4, HTTPS)
     url: https://sip1.demo.prod.dashphone.app/metrics
     ipv6: false

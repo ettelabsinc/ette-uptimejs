@@ -4,19 +4,19 @@
     "url": "https://demo-web.prod.dashphone.app",
     "icon": "https://icons.duckduckgo.com/ip3/demo-web.prod.dashphone.app.ico",
     "slug": "demo-web-prod-i-pv4-https",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 490,
-    "timeDay": 352,
-    "timeWeek": 490,
-    "timeMonth": 490,
-    "timeYear": 490,
+    "status": "up",
+    "uptime": "99.76%",
+    "uptimeDay": "99.58%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.76%",
+    "uptimeYear": "99.76%",
+    "time": 486,
+    "timeDay": 389,
+    "timeWeek": 486,
+    "timeMonth": 486,
+    "timeYear": 486,
     "dailyMinutesDown": {
-      "2024-04-04": 0
+      "2024-04-04": 6
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://demo-web.prod.dashphone.app",
     "icon": "https://icons.duckduckgo.com/ip3/demo-web.prod.dashphone.app.ico",
     "slug": "demo-web-prod-i-pv6-https",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 139,
-    "timeDay": 64,
-    "timeWeek": 139,
-    "timeMonth": 139,
-    "timeYear": 139,
+    "status": "up",
+    "uptime": "99.76%",
+    "uptimeDay": "99.58%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.76%",
+    "uptimeYear": "99.76%",
+    "time": 145,
+    "timeDay": 105,
+    "timeWeek": 145,
+    "timeMonth": 145,
+    "timeYear": 145,
     "dailyMinutesDown": {
-      "2024-04-04": 0
+      "2024-04-04": 6
     }
   },
   {

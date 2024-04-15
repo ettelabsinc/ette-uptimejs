@@ -1,7 +1,7 @@
 url: cr2.staging.ettelabs.com
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-04-15T14:00:49.586Z
+status: up
+code: 200
+responseTime: 71
+lastUpdated: 2024-04-15T14:35:48.642Z
 startTime: 2024-04-01T16:28:34.577Z
 generator: Upptime <https://github.com/upptime/upptime>

@@ -53,25 +53,25 @@ sites:
   #   check: "tcp-ping"
   #   ipv6: true
 
-  - name: fs1.demo.prod (IPv4, 5060/TCP)
+  - name: fs1.demo.prod (IPv4, 5070/TCP)
     url: fs1.demo.prod.dashphone.app
-    port: 5060
+    port: 5070
     check: "tcp-ping"
     ipv6: false
-  # - name: fs1.demo.prod (IPv6, 5060/TCP)
+  # - name: fs1.demo.prod (IPv6, 5070/TCP)
   #   url: fs1.demo.prod.dashphone.app
-  #   port: 5060
+  #   port: 5070
   #   check: "tcp-ping"
   #   ipv6: true
 
-  - name: fs1.demo.staging (IPv4, 5060/TCP)
+  - name: fs1.demo.staging (IPv4, 5070/TCP)
     url: fs1.demo.staging.dashphone.app
-    port: 5060
+    port: 5070
     check: "tcp-ping"
     ipv6: false
-  # - name: fs1.demo.staging (IPv6, 5060/TCP)
+  # - name: fs1.demo.staging (IPv6, 5070/TCP)
   #   url: fs1.demo.staging.dashphone.app
-  #   port: 5060
+  #   port: 5070
   #   check: "tcp-ping"
   #   ipv6: true
 

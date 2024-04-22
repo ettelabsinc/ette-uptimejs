@@ -1,7 +1,7 @@
 url: fs1.demo.prod.dashphone.app
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-04-22T16:24:12.503Z
+status: up
+code: 200
+responseTime: 65
+lastUpdated: 2024-04-22T16:45:20.891Z
 startTime: 2024-04-15T21:42:48.345Z
 generator: Upptime <https://github.com/upptime/upptime>

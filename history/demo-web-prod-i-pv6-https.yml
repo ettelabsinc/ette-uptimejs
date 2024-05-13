@@ -1,7 +1,7 @@
 url: https://demo-web.prod.dashphone.app
-status: down
-code: 500
-responseTime: 206
-lastUpdated: 2024-05-12T23:50:23.038Z
+status: up
+code: 200
+responseTime: 105
+lastUpdated: 2024-05-13T00:13:41.233Z
 startTime: 2024-04-02T22:03:35.885Z
 generator: Upptime <https://github.com/upptime/upptime>

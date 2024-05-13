@@ -1,7 +1,7 @@
 url: https://stagingapp.dashphone.app
-status: down
-code: 504
-responseTime: 15514
-lastUpdated: 2024-05-13T17:40:42.060Z
+status: up
+code: 200
+responseTime: 737
+lastUpdated: 2024-05-13T17:45:49.911Z
 startTime: 2024-04-02T22:03:36.470Z
 generator: Upptime <https://github.com/upptime/upptime>

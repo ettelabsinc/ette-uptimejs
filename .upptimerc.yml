@@ -11,10 +11,10 @@ sites:
     ipv6: true
 
   - name: demo-web.staging (IPv4, HTTPS)
-    url: https://demo-web.staging.dashphone.app
+    url: https://stagingapp.dashphone.app
     ipv6: false
-  - name: demo-web.staging (IPv6, HTTPS)
-    url: https://demo-web.staging.dashphone.app
+  - name: emo-web.staging (IPv6, HTTPS)
+    url: https://stagingapp.dashphone.app
     ipv6: true
 
   - name: sip1.demo.prod (IPv4, HTTPS)

@@ -1,7 +1,7 @@
-url: https://demo-web.staging.dashphone.app
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-05-12T23:03:42.623Z
+url: https://stagingapp.dashphone.app
+status: up
+code: 200
+responseTime: 610
+lastUpdated: 2024-05-13T14:54:22.730Z
 startTime: 2024-04-02T22:03:36.470Z
 generator: Upptime <https://github.com/upptime/upptime>

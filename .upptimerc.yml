@@ -107,7 +107,7 @@ status-website:
   introMessage: "Welcome! Here we monitor some services."
   navbar:
     - title: Status
-      href: /
+      href: /ette-uptimejs
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 

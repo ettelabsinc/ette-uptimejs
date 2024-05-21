@@ -13,7 +13,7 @@ sites:
   - name: demo-web.staging (IPv4, HTTPS)
     url: https://stagingapp.dashphone.app
     ipv6: false
-  - name: emo-web.staging (IPv6, HTTPS)
+  - name: demo-web.staging (IPv6, HTTPS)
     url: https://stagingapp.dashphone.app
     ipv6: true
 

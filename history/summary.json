@@ -74,7 +74,7 @@
     "timeMonth": 332,
     "timeYear": 955,
     "dailyMinutesDown": {
-      "2024-08-22": 372,
+      "2024-08-22": 382,
       "2024-08-21": 1440,
       "2024-08-20": 1440,
       "2024-08-19": 1440,
@@ -165,7 +165,7 @@
     "timeMonth": 1993,
     "timeYear": 320,
     "dailyMinutesDown": {
-      "2024-08-22": 372,
+      "2024-08-22": 382,
       "2024-08-21": 1440,
       "2024-08-20": 1440,
       "2024-08-19": 1440,
@@ -509,11 +509,11 @@
     "url": "cr1.staging.ettelabs.com",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "cr1-staging-i-pv4-5060-tcp",
-    "status": "up",
+    "status": "down",
     "uptime": "99.33%",
-    "uptimeDay": "70.10%",
-    "uptimeWeek": "86.39%",
-    "uptimeMonth": "96.87%",
+    "uptimeDay": "70.84%",
+    "uptimeWeek": "86.44%",
+    "uptimeMonth": "96.88%",
     "uptimeYear": "99.33%",
     "time": 41,
     "timeDay": 27,
@@ -524,7 +524,7 @@
       "2024-08-22": 112,
       "2024-08-21": 429,
       "2024-08-20": 590,
-      "2024-08-19": 240
+      "2024-08-19": 234
     }
   },
   {

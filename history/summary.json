@@ -63,18 +63,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/stagingapp.dashphone.app.ico",
     "slug": "demo-web-staging-i-pv4-https",
     "status": "down",
-    "uptime": "61.27%",
+    "uptime": "61.26%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "61.27%",
+    "uptimeYear": "61.26%",
     "time": 955,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 332,
     "timeYear": 955,
     "dailyMinutesDown": {
-      "2024-08-25": 1312,
+      "2024-08-25": 1324,
       "2024-08-24": 1440,
       "2024-08-23": 1440,
       "2024-08-22": 1440,
@@ -168,7 +168,7 @@
     "timeMonth": 1993,
     "timeYear": 320,
     "dailyMinutesDown": {
-      "2024-08-25": 1312,
+      "2024-08-25": 1324,
       "2024-08-24": 1440,
       "2024-08-23": 1440,
       "2024-08-22": 1440,
@@ -515,11 +515,11 @@
     "url": "cr1.staging.ettelabs.com",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "cr1-staging-i-pv4-5060-tcp",
-    "status": "up",
+    "status": "down",
     "uptime": "99.40%",
-    "uptimeDay": "68.00%",
-    "uptimeWeek": "87.42%",
-    "uptimeMonth": "97.11%",
+    "uptimeDay": "68.41%",
+    "uptimeWeek": "87.55%",
+    "uptimeMonth": "97.14%",
     "uptimeYear": "99.40%",
     "time": 38,
     "timeDay": 10,
@@ -529,7 +529,7 @@
     "dailyMinutesDown": {
       "2024-08-25": 382,
       "2024-08-24": 588,
-      "2024-08-23": 295
+      "2024-08-23": 281
     }
   },
   {
